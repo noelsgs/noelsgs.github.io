@@ -249,6 +249,11 @@ p.section-description {
 .carousel .carousel-indicators {
 	bottom: -40px;
 }
+.carousel-indicators li {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
 
 /*CONTACT*/
 #contactus {

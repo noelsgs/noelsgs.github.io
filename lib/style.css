@@ -329,9 +329,10 @@ p.section-description {
 .social i.fab:hover {
     background: #6aaf08;
     color: #fff;
+    text-decoration: none;
 }
 .social i.fab {
-    font-size: 22px;
+    font-size: 20px;
     width: 40px;
     height: 40px;
     padding: 10px;

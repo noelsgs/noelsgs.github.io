@@ -318,6 +318,10 @@ p.section-description {
 #contact_form label {
   text-align: left;
 }
+#fs-frm label {
+  text-align: left;
+  float: left;
+}
 .btn {
     text-transform: uppercase;
     color: #fff;

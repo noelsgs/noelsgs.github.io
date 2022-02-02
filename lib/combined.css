@@ -108,9 +108,9 @@ NAVBAR
 @media (max-width: 440px) {
   .navbar-brand{ 
     /*line-height: 100px;*/
-    font-size: 1.15rem;
+    font-size: 1.10rem;
   }
-  h1{font-size: 1.5rem;}
+  h1{font-size: 1.3rem;}
   h2{font-size: 1.25rem;}
   h3{font-size: 1.15rem;}
 }
@@ -256,7 +256,7 @@ p.section-description {
 /*	CAROUSEL / TESTIMONIAL
 */
 #reviews {
-    background: #6aaf08 url(../images/services/lawn.jpg) center center no-repeat fixed;
+    background: #6aaf08 url(../images/services/lawncare.jpg) center center no-repeat fixed;
     background-size: cover;
 }
 #reviews .overlay {
